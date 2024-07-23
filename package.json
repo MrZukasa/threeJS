@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "gsap": "^3.12.5",
     "three": "^0.166.1"
   },
   "devDependencies": {
